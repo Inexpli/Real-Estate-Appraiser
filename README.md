@@ -7,6 +7,6 @@ File `main.py` serves as a script to scrape current data about flats in Bielsko-
 After this process, we are importing `estates.csv` to our file `main.ipynb` in which we have a model that will learn from our `estates.csv`. Data is imported, read, and modified in the Pandas library in order to get a valuation. The model is based on Sklearn, and it learns based on linear regression, which is the most accurate algorithm in this case.
 
 $\textcolor{red}{\textsf{The accuracy of the application is not the best. Accuracy depends on the quality of the data, which is not ideal in our case because of what the website}}$
-$\textcolor{red}{\textsf{offers. What I mean is that the website doesn't create separate information about what year the flat is, what the standard is, etc. The site focuses on}}$
-$\textcolor{red}{\textsf{descriptions of people who offer flats, like a lot of other sites, which makes the valuation task much more difficult. The most accurate valuation that}}$ 
-$\textcolor{red}{\textsf{can be obtained is in the case of valuing a flat that is of medium standard.}}$ 
+$\textcolor{red}{\textsf{because of what the website offers. What I mean is that the website doesn't create separate information about what year the flat is, what the standard}}$
+$\textcolor{red}{\textsf{is, etc. The site focuses on descriptions of people who offer flats, like a lot of other sites, which makes the valuation task much more difficult.}}$ 
+$\textcolor{red}{\textsf{The most accurate valuation that can be obtained is in the case of valuing a flat that is of medium standard.}}$ 
