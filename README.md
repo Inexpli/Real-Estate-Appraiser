@@ -9,5 +9,5 @@ After this process, we are importing `estates.csv` to our file `main.ipynb` in w
 $\textcolor{red}{\textsf{The accuracy of the application is not the best. Accuracy depends on the quality of the data, which is not ideal in our case }}$
 $\textcolor{red}{\textsf{because of what the website offers. What I mean is that the website doesn't create separate information about what year the }}$
 $\textcolor{red}{\textsf{flat is, what the standard is, etc. The site focuses on descriptions of people who offer flats, like a lot of other sites, }}$ 
-$\textcolor{red}{\textsf{which makes the valuation task much more difficult. The most accurate valuation that can be obtained is in the case of valuing }}$ 
-$\textcolor{red}{\textsf{a flat that is of medium standard. }}$ 
+$\textcolor{red}{\textsf{which makes the valuation task much more difficult. The most accurate valuation that can be obtained is in the case of }}$ 
+$\textcolor{red}{\textsf{valuing a flat that is of medium standard. }}$ 
